@@ -1,0 +1,8 @@
+[18-Jun-2020 20:52:03 Europe/Berlin] PHP Warning:  include(sesija123.php): failed to open stream: No such file or directory in C:\xampp\htdocs\studentskasluzba\inicijalizacija.php on line 11
+[18-Jun-2020 20:52:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'sesija123.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\studentskasluzba\inicijalizacija.php on line 11
+[18-Jun-2020 20:52:03 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\studentskasluzba\glavniMeni.php on line 3
+[18-Jun-2020 20:52:03 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\studentskasluzba\glavniMeni.php on line 5
+[18-Jun-2020 20:52:03 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\studentskasluzba\grafik.php on line 83
+[18-Jun-2020 20:52:03 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\studentskasluzba\grafik.php on line 83
+[05-Jul-2021 22:01:03 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\eStudent-master\administracija.php on line 112
+[05-Jul-2021 22:08:31 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\eStudent-master\administracija.php on line 112
